@@ -24,4 +24,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vignesh-cloud-prog&show_icons=true&locale=en" alt="vignesh-cloud-prog" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vignesh-cloud-prog&" alt="vignesh-cloud-prog" /></p>
+<i>NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages I have the most code on github.</i><br/>
 
+
+![GitHub metrics](https://metrics.lecoq.io/vignesh-cloud-prog)  

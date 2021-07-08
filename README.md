@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vignesh</h1>
-<h3 align="center">A passionate student developer from India, Karnataka, Nittur</h3>
+<h3 align="center">A passionate student developer from India, Karnataka, Nittur.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vignesh-cloud-prog&label=Profile%20views&color=0e75b6&style=flat" alt="vignesh-cloud-prog" /> </p>
 
@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1fV-3GSWg3jAylMraT3NLZfWL-kR7JUDt/view](https://drive.google.com/file/d/1fV-3GSWg3jAylMraT3NLZfWL-kR7JUDt/view)
 
-- ⚡ Fun fact **I just don't ignore anything, but talk less.**
+- ⚡ Fun fact **Learning a new framework is like wearing a new dress. Learning a new language is like tasting a new recipes.**
 
 
 <h3 align="left">Languages and Tools:</h3>

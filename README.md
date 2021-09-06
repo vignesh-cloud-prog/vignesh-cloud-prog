@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vignesh-cloud-prog&label=Profile%20views&color=0e75b6&style=flat" alt="vignesh-cloud-prog" /> </p>
 
-- 🌱 I’m currently learning **Vue**
+- 🌱 I’m currently learning **Go and Rust**
 
 - 👨‍💻 All of my projects are available at [https://vigneshnu.herokuapp.com/](https://vigneshnu.herokuapp.com/)
 
-- 💬 Ask me about **Django**
+- 💬 Ask me about **Web**
 
 - 📫 How to reach me **vigneshun80@gmail.com**
 

@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently learning **Go and Rust**
 
-- 👨‍💻 All of my projects are available at [https://vigneshnu.herokuapp.com/](https://vigneshnu.herokuapp.com/)
+- 👨‍💻 All of my projects are available at [https://vigneshnu.gatsbyjs.io/projects/](https://vigneshnu.gatsbyjs.io/projects/)
 
 - 💬 Ask me about **Web**
 
 - 📫 How to reach me **vigneshun80@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1fV-3GSWg3jAylMraT3NLZfWL-kR7JUDt/view](https://drive.google.com/file/d/1fV-3GSWg3jAylMraT3NLZfWL-kR7JUDt/view)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1AUhMzYLBsLXqc6AI_rKWHc74Z94leQSE/view?usp=sharing](https://drive.google.com/file/d/1AUhMzYLBsLXqc6AI_rKWHc74Z94leQSE/view?usp=sharing)
 
 - ⚡ Fun fact **Learning a new framework is like wearing a new dress. Learning a new language is like tasting a new recipes.**
 

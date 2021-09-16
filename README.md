@@ -46,3 +46,5 @@
 <div>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vignesh-cloud-prog&show_icons=true&locale=en" alt="vignesh-cloud-prog" /></div><br>
 
 <div><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vignesh-cloud-prog&" alt="vignesh-cloud-prog" /></div><br>
+
+![GitHub metrics](https://metrics.lecoq.io/vignesh-cloud-prog)

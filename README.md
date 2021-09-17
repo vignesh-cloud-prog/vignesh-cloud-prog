@@ -41,7 +41,7 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/vigneshnu"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="vigneshnu" /></a></p><br><br><br>
 
-<div><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vignesh-cloud-prog&show_icons=true&locale=en&layout=compact" alt="vignesh-cloud-prog" /></div>
+<div><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vignesh-cloud-prog&show_icons=true&locale=en&layout=compact" alt="vignesh-cloud-prog" /></div><br>
 
 <div>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vignesh-cloud-prog&show_icons=true&locale=en" alt="vignesh-cloud-prog" /></div><br>
 

@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [QP](https://github.com/vignesh-cloud-prog/QP)
 
-- 🌱 I’m currently learning **go,rust,ML**
+- 🌱 I’m currently learning **go**
 
 - 👨‍💻 All of my projects are available at [https://vigneshnu.gatsbyjs.io/](https://vigneshnu.gatsbyjs.io/)
 

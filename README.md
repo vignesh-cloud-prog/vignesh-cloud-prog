@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **go**
 
-- 👨‍💻 All of my projects are available at [https://vigneshnu.gatsbyjs.io/](https://vigneshnu.gatsbyjs.io/)
+- 👨‍💻 All of my projects are available at [https://vigneshnu.gatsbyjs.io/](https://vighnesha.me/)
 
 <!-- - 📝 I regularly write articles on [https://vignesh-blogs.vercel.app/](https://vignesh-blogs.vercel.app/) -->
 

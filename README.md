@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **vigneshun80@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1AUhMzYLBsLXqc6AI_rKWHc74Z94leQSE/view](https://drive.google.com/file/d/1AUhMzYLBsLXqc6AI_rKWHc74Z94leQSE/view)
+- 📄 Know about my experiences [here on my Resume](https://drive.google.com/file/d/1grcTTLqL43oZNqkV1dQcxF5jrjaY1BPO/view?usp=sharing)
 
 - ⚡ Fun fact **Learning a new framework is like wearing a new dress. Learning a new language is like tasting a new recipes.**
 
@@ -26,6 +26,7 @@
 -->
 <a href="https://twitter.com/@VigneshNU2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@vighneshnu2" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/vignesh-n-u/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/vignesh-n-u/" height="30" width="40" /></a>
+<a href="https://devpost.com/vigneshun80" target="blank"><img align="center" src="https://devpost.com/favicon.ico" alt="devpost/vignesh-n-u/" height="30" width="40" /></a>
 <!--
 <a href="https://stackoverflow.com/users/14768803/vignesh-n-u" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="14768803/vignesh-n-u" height="30" width="40" /></a>
 <a href="https://kaggle.com/vighneshanu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="vighneshanu" height="30" width="40" /></a>

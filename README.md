@@ -24,7 +24,7 @@
 <!--
 <a href="https://codepen.io/vignesh-cloud-prog" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="vignesh-cloud-prog" height="30" width="40" /></a>
 -->
-<a href="[https://twitter.com/Vignesh-n-u](https://twitter.com/vignesh_n_u)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@vighneshnu2" height="30" width="40" /></a>
+<a href="https://twitter.com/vignesh_n_u" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@vighneshnu2" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/vignesh-n-u/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/vignesh-n-u/" height="30" width="40" /></a>
 <a href="https://devpost.com/vigneshun80" target="blank"><img align="center" src="https://devpost.com/favicon.ico" alt="devpost/vignesh-n-u/" height="30" width="40" /></a>
 <!--

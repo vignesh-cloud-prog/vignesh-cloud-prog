@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **go**
 
-- 👨‍💻 All of my projects are available at [My Portfolio](https://vighnesha.me/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://www.vigneshnu.com/)
 
 <!-- - 📝 I regularly write articles on [https://vignesh-blogs.vercel.app/](https://vignesh-blogs.vercel.app/) -->
 
